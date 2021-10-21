@@ -1,0 +1,80 @@
+# Site/SEO settings
+email: jambarnes@gmail.com
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: James Barnes
+title: README.md
+description: >
+    A personal website about me
+url: https://jamesbarn35.github.io/jamesbarnes
+twitter_username: thoma
+default_img: /assets/images/seo.jpg
+social:
+  - name: linkedin
+    url: https://www.linkedin.com/in/james-barn35/
+  - name: github
+    url: https://github.com/JamesBarn35
+
+# Contact settings
+contact_img: /assets/images/placeholder-28.jpg
+formcarry:
+
+# Disqus settings
+disqus:
+
+# MailChimp settings
+mailchimp_action:
+mailchimp_input:
+
+# Author settings
+author:
+  - name: James Barnes
+    bio: Insert bio
+    url: https://jamesbarn35.github.io/jamesbarnes/
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - 'tag.html'
+    title: 'The Barber Theme'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor
