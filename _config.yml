@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: jambarnes@gmail.com
-baseurl: ""
+baseurl: "READMEmd"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
