@@ -1,15 +1,32 @@
 ---
 layout: page
 title: README.md
-image: /assets/images/placeholder-18.jpg#full
 ---
+<img src="/README/assets/images/placeholder-30.jpg" alt="Grid Image"/>
+<div class="posts">
+  <div class="grid-xxxlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+
+    <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          <figure class="posts__img">
+            <img src="/README/images/placeholder-30.jpg" alt="House" data-aos="fade-in" itemprop="image"/>
+          </figure>
+        <div>
+          <h2 class="posts__text"><strong itemprop="name">House</strong> — <span itemprop="description">A house outside of the bad lands.</span></h2>
+        </div>
+    </article>
+    </div>
+  </div>
+</div>
+
+
 <p>My name is Thomas Vaeth and this is Barber. 💈 Barber is a minimal blog theme with a masonry grid layout and infinite scroll. <a href="http://samesies.io" target="_blank">Samesies</a> builds themes for Ghost, WordPress, and Jekyll and they are only available through ThemeForest.</p>
 
 <hr/>
 
 <h1>Team Roles I Play</h1>
 <h4>Solver</h4>
-<p>I love diving into knotty problems; the more obsecure the better. </p> 
+<p>I love diving into knotty problems; the more obsecure the better. </p>
 
 <h4>Bar Raiser</h4>
 <p>Everything can be done better</p>
@@ -62,7 +79,7 @@ code {
 
 <hr/>
 
-<img src="/assets/images/placeholder-18.jpg" alt="Grid Image"/>
+
 <p>You can <code>use inline code</code> and append <code>#full</code> to the end of an image URL for full width images.</p>
 
 <img src="/assets/images/placeholder-18.jpg#full" alt="Full Image"/>

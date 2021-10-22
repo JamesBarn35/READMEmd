@@ -2,10 +2,10 @@
 layout: post
 title: "README.md"
 date: 2021-10-20
-description: 
-image: /assets/images/placeholder-9.jpg
+description:
+image: /README/assets/images/placeholder-9.jpg
 author: Thomas Vaeth
-tags: 
+tags:
   - Dummy Text
   - Moon Drinking
   - Kale

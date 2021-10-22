@@ -1,1 +1,1 @@
-Sitemap: https://jamesbarn35.github.io/jamesbarnes/sitemap.xml
+Sitemap: http://localhost:4000/README/sitemap.xml
