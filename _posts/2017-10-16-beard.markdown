@@ -3,7 +3,7 @@ layout: post
 title: "Beard"
 date: 2017-10-16
 description:
-image: /README/assets/images/placeholder-7.jpg
+image: /READMEmd/assets/images/placeholder-7.jpg
 author: Thomas Vaeth
 tags:
   - Squid

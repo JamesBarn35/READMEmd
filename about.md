@@ -2,14 +2,14 @@
 layout: page
 title: README.md
 ---
-<img src="/README/assets/images/placeholder-30.jpg" alt="Grid Image"/>
+<img src="/READMEmd/assets/images/placeholder-30.jpg" alt="Grid Image"/>
 <div class="posts">
   <div class="grid-xxxlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
 
     <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
           <figure class="posts__img">
-            <img src="/README/images/placeholder-30.jpg" alt="House" data-aos="fade-in" itemprop="image"/>
+            <img src="/READMEmd/images/placeholder-30.jpg" alt="House" data-aos="fade-in" itemprop="image"/>
           </figure>
         <div>
           <h2 class="posts__text"><strong itemprop="name">House</strong> — <span itemprop="description">A house outside of the bad lands.</span></h2>

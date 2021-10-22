@@ -3,7 +3,7 @@ layout: post
 title: "Waistcoat Tote Bag Pickled"
 date: 2017-10-19
 description:
-image: /README/assets/images/placeholder-4.jpg
+image: /READMEmd/assets/images/placeholder-4.jpg
 author: Thomas Vaeth
 tags:
   - Dummy Text

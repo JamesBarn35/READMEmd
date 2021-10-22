@@ -3,7 +3,7 @@ layout: post
 title: "Flannel Distillery Asymmetrical"
 date: 2017-10-21
 description:
-image: /README/assets/images/placeholder-12.jpg
+image: /READMEmd/assets/images/placeholder-12.jpg
 author: Thomas Vaeth
 tags:
   - Dummy Text

@@ -3,7 +3,7 @@ layout: post
 title: "Taxidermy Dreamcatcher Readymade"
 date: 2017-10-17
 description:
-image: /README/assets/images/placeholder-6.jpg
+image: /READMEmd/assets/images/placeholder-6.jpg
 author: Thomas Vaeth
 tags:
   - Dummy Text

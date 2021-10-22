@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: jambarnes@gmail.com
-baseurl: "/README"
+baseurl: "/READMEmd"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
@@ -8,9 +8,9 @@ name: James Barnes
 title: README.md
 description: >
     A personal website about me
-url: https://jamesbarn35.github.io/jamesbarnes
+url: https://jamesbarn35.github.io/readmemd
 twitter_username: thoma
-default_img: /assets/images/seo.jpg
+default_img: /readme/assets/images/seo.jpg
 social:
   - name: linkedin
     url: https://www.linkedin.com/in/james-barn35/
@@ -18,7 +18,7 @@ social:
     url: https://github.com/JamesBarn35
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /asset/images/placeholder-28.jpg
 formcarry:
 
 # Disqus settings
@@ -32,7 +32,7 @@ mailchimp_input:
 author:
   - name: James Barnes
     bio: Insert bio
-    url: https://jamesbarn35.github.io/jamesbarnes/
+    url: https://jamesbarn35.github.io/readmemd/
 
 # Pagination settings
 pagination:

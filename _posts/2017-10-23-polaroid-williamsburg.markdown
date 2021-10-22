@@ -3,7 +3,7 @@ layout: post
 title: "README.md"
 date: 2021-10-20
 description:
-image: /README/assets/images/placeholder-9.jpg
+image: /READMEmd/assets/images/placeholder-9.jpg
 author: Thomas Vaeth
 tags:
   - Dummy Text
