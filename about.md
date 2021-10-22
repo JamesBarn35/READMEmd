@@ -9,7 +9,7 @@ title: README.md
 
     <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
           <figure class="posts__img">
-            <img src="/READMEmd/images/placeholder-30.jpg" alt="House" data-aos="fade-in" itemprop="image"/>
+            <img src="/READMEmd/assets/images/placeholder-28.jpg" alt="House" data-aos="fade-in" itemprop="image"/>
           </figure>
         <div>
           <h2 class="posts__text"><strong itemprop="name">House</strong> — <span itemprop="description">A house outside of the bad lands.</span></h2>
@@ -82,7 +82,7 @@ code {
 
 <p>You can <code>use inline code</code> and append <code>#full</code> to the end of an image URL for full width images.</p>
 
-<img src="/assets/images/placeholder-18.jpg#full" alt="Full Image"/>
+<img src="/READMEmd/assets/images/placeholder-18.jpg#full" alt="Full Image"/>
 
 <hr/>
 
