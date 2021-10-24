@@ -6,8 +6,8 @@
 </description>
     <link>https://jamesbarn35.github.io/READMEmd</link>
     <atom:link href="https://jamesbarn35.github.io/READMEmd/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Oct 2021 08:25:18 -0700</pubDate>
-    <lastBuildDate>Sun, 24 Oct 2021 08:25:18 -0700</lastBuildDate>
+    <pubDate>Sun, 24 Oct 2021 08:51:23 -0700</pubDate>
+    <lastBuildDate>Sun, 24 Oct 2021 08:51:23 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -61,59 +61,159 @@
       </item>
     
       <item>
-        <title>Bad Lands</title>
+        <title>Badlands National Park</title>
         <description>&lt;div class=&quot;posts&quot;&gt;
   &lt;div class=&quot;grid-xxxxlarge&quot;&gt;
     &lt;div class=&quot;posts__container&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Blog&quot; data-columns=&quot;&quot;&gt;
 
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl1.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl2.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl3.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl3_2.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl4.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl5.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl6.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl7.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl8.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
           &lt;figure class=&quot;posts__img&quot;&gt;
-            &lt;img src=&quot;/READMEmd/assets/images/placeholder-32.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl8.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl9.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl10.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl11.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl12.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl13.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl13_2.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl14.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl15.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl16.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl17.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl18.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl19.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl20.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl21.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl22.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl23.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl24.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl25.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl26.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
+          &lt;/figure&gt;
+    &lt;/article&gt;
+    &lt;article class=&quot;posts__post&quot; itemprop=&quot;blogPost&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
+          &lt;figure class=&quot;posts__img&quot;&gt;
+            &lt;img src=&quot;/READMEmd/assets/images/badlands/bl27.jpeg&quot; style=&quot;height 50px;&quot; alt=&quot;House&quot; data-aos=&quot;fade-in&quot; itemprop=&quot;image&quot; /&gt;
           &lt;/figure&gt;
     &lt;/article&gt;
     &lt;/div&gt;
@@ -122,8 +222,8 @@
 &lt;p&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 May 2021 00:00:00 -0700</pubDate>
-        <link>https://jamesbarn35.github.io/READMEmd/2021/05/02/bad-lands/</link>
-        <guid isPermaLink="true">https://jamesbarn35.github.io/READMEmd/2021/05/02/bad-lands/</guid>
+        <link>https://jamesbarn35.github.io/READMEmd/2021/05/02/badlands/</link>
+        <guid isPermaLink="true">https://jamesbarn35.github.io/READMEmd/2021/05/02/badlands/</guid>
         
         <category>Travel</category>
         
