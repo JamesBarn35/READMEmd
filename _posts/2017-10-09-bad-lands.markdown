@@ -3,7 +3,7 @@ layout: post
 title: "Bad Lands"
 date: 2017-10-09
 description:
-image: /assets/images/placeholder-3.jpg
+image: /READMEmd/assets/images/placeholder-3.jpg
 author: Thomas Vaeth
 tags:
   - Mixtape
