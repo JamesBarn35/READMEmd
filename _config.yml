@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: jambarnes@gmail.com
-baseurl: ""
+baseurl: "/READMEmd"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
@@ -9,7 +9,7 @@ title: README.md
 description: >
     A personal website about me
 url: https://jamesbarn35.github.io
-twitter_username: 
+twitter_username:
 default_img: /assets/images/seo.jpg
 social:
   - name: linkedin
