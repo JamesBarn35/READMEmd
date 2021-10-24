@@ -1,7 +1,7 @@
 ---
 layout: page
 title: README.md
-permalink: /READMEmd/about
+permalink: /about
 ---
 
 <img src="/assets/images/placeholder-30.jpg" alt="Grid Image"/>
