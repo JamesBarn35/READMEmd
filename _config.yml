@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: James Barnes
-title: README.md
+title: READMEmd
 description: >
     A personal website about me
 url: https://jamesbarn35.github.io
@@ -15,7 +15,7 @@ social:
   - name: linkedin
     url: https://www.linkedin.com/in/james-barn35/
   - name: github
-    url: https://github.com/JamesBarn35
+    url: https://github.com/JamesBarn35/READMEmd
 
 # Contact settings
 contact_img: /asset/images/placeholder-28.jpg
